@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.gf752.cn/sitemap.xml
